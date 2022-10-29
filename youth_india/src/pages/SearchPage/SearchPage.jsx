@@ -32,6 +32,7 @@ const SearchPage = () => {
             className="card-container"
             style={{
               width: "300px",
+              marginLeft: "20px",
             }}
           >
             <img
