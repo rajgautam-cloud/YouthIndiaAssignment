@@ -1,0 +1,16 @@
+.mainContainer {
+  padding-left: 5%;
+  padding-right: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+.subContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.tabs {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: 5px;
+  background-color: rgb(203, 131, 131);
+}
